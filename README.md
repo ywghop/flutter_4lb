@@ -1,3 +1,3 @@
 # Лабораторная работа №4
 
-![Скриншот экрана входа](screenshots/lab4-screenshot.png)
+![Скриншот экрана входа](screenshots/1.jpg)
